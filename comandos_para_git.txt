@@ -1,0 +1,11 @@
+git clone y pegar la direccion = clonar en local
+git add -A = sirve para agregar todos los archivos
+git status = visualiza archivos subidos
+
+git commit -m  la m = es el mensaje que le damos permite crear una copia localmente
+git push permite cargar al git
+git pull permite descargar todos cambios recienrealizados en elrepositorio
+
+
+$ git config --global user.name "JuanoMorocho"
+$ git config --global user.email "juandaniel241214@gmail.com"

@@ -1,0 +1,15 @@
+PLAN DE GESTION DE PROYECTO
+-Pagina del titulo
+-hoja de revision 
+-Prefacio
+-Tabla de contenido
+-Lista de figuras
+-lista de tablas 
+
+1.- VISION GENERAL DEL PROYECTO
+	1.1Resumen del proyecto
+		1.1.1 Proposito, alcance y objetivos
+		1.1.2 Suposicion y restricciones
+		1.1.3 Entregable del proyecto
+		1.1.4 Resumen de calendario y presupuesto
+	1.2 Evolucion del PGPS

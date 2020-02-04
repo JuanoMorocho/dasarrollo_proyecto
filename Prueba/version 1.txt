@@ -1,0 +1,7 @@
+PLAN DE GESTION DE PROYECTO
+-Pagina del titulo
+-hoja de revision 
+-Prefacio
+-Tabla de contenido
+-Lista de figuras
+-lista de tablas 
